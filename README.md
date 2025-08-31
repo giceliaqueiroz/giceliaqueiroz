@@ -1,4 +1,4 @@
-<center>![monkey](https://i.gifer.com/1alw.gif)</center>
+                ![monkey](https://i.gifer.com/1alw.gif)
 
 ## Seja bem-vindo ao meu espaço no GitHub!
 
