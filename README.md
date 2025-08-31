@@ -6,15 +6,18 @@
 
 ## ![alt text](image.png)Sou a Gicélia!
 
-## 💻 No momento (2025) estudante do curso de Técnico/a Especialista em Tecnologias e Programação de Sistemas de Informação (Atec)
+💻 No momento (2025) estudante do curso de Técnico/a Especialista em Tecnologias e Programação de Sistemas de Informação (Atec)
 
 📫[Veja meu LinkedIn](https://www.linkedin.com/in/gicelia/)
 
 -----------------------
 ## 👀 Meus interesses tecnológicos
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60px"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="60px"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60px"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60px"><br>
+------------------------
 
 <!--
 **giceliaqueiroz/giceliaqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
