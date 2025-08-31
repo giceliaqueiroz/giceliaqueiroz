@@ -1,5 +1,6 @@
 ![monkey](https://i.gifer.com/1alw.gif)
 
+--------------------
 ## Seja bem-vindo ao meu espaço no GitHub!
 
 ![alt text](image.png)Sou a Gicélia!
