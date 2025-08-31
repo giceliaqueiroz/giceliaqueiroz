@@ -10,6 +10,10 @@
 
 📫[Veja meu LinkedIn](https://www.linkedin.com/in/gicelia/)
 
+-----------------------
+👀 Meus interesses tecnológicos
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
+
 
 <!--
 **giceliaqueiroz/giceliaqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
