@@ -4,6 +4,9 @@
 
 ![alt text](image.png)Sou a Gicélia!
 
+💻 No momento (2025) estudante do curso de Técnico/a Especialista em Tecnologias e Programação de Sistemas de Informação (Atec)
+
+
 <!--
 **giceliaqueiroz/giceliaqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
