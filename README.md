@@ -1,4 +1,7 @@
-## Hi there 👋
+![](https://mir-s3-cdn-cf.behance.net/project_modules/source/22a74026711491.55c9493a8ec6a.gif)
+
+## Seja bem-vindo ao meu espaço no GitHub!
+
 
 <!--
 **giceliaqueiroz/giceliaqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
