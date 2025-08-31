@@ -1,11 +1,14 @@
 ![monkey](https://i.gifer.com/1alw.gif)
 
 --------------------
-## Seja bem-vindo ao meu espaço no GitHub!
+# 🌟 Seja bem-vindo ao meu espaço no GitHub!🌟
+--------------------
 
 ![alt text](image.png)Sou a Gicélia!
 
 💻 No momento (2025) estudante do curso de Técnico/a Especialista em Tecnologias e Programação de Sistemas de Informação (Atec)
+
+📫[Veja meu LinkedIn](https://www.linkedin.com/in/gicelia/)
 
 
 <!--
