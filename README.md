@@ -1,7 +1,8 @@
-![](https://i.gifer.com/1alw.gif)
+![monkey](https://i.gifer.com/1alw.gif)
 
 ## Seja bem-vindo ao meu espaço no GitHub!
 
+![alt text](image.png)Sou a Gicélia
 
 <!--
 **giceliaqueiroz/giceliaqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
