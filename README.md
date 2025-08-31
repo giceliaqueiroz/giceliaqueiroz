@@ -4,14 +4,15 @@
 # 🌟 Seja bem-vindo ao meu espaço no GitHub!🌟
 --------------------
 
-![alt text](image.png)Sou a Gicélia!
+## ![alt text](image.png)Sou a Gicélia!
 
-💻 No momento (2025) estudante do curso de Técnico/a Especialista em Tecnologias e Programação de Sistemas de Informação (Atec)
+## 💻 No momento (2025) estudante do curso de Técnico/a Especialista em Tecnologias e Programação de Sistemas de Informação (Atec)
 
 📫[Veja meu LinkedIn](https://www.linkedin.com/in/gicelia/)
 
 -----------------------
-👀 Meus interesses tecnológicos
+## 👀 Meus interesses tecnológicos
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
 
 
